@@ -9,6 +9,8 @@ pandas = "==2.0.0"
 matplotlib = "==3.7.1"
 plotly = "==5.14.1"
 numpy-financial = "*"
+pandas-datareader = "*"
+yfinance = "*"
 
 [dev-packages]
 ipykernel = "*"
