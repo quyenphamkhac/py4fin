@@ -12,6 +12,8 @@ numpy-financial = "*"
 pandas-datareader = "*"
 yfinance = "*"
 statsmodels = "*"
+cmake = "*"
+wheel = "*"
 
 [dev-packages]
 ipykernel = "*"
